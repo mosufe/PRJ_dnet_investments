@@ -35,3 +35,4 @@ E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.dll
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.pdb
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.genruntimeconfig.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.csproj.CopyComplete
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
