@@ -15,5 +15,7 @@ namespace InvestMVC.Data
         }
 
         public DbSet<InvestMVC.Models.User> User { get; set; }
+
+        public DbSet<InvestMVC.Models.Company> Company { get; set; }
     }
 }
