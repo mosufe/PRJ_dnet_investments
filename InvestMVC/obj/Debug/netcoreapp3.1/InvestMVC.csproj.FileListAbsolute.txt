@@ -169,3 +169,10 @@ E:\Projetos\C#\Investments\InvestMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.C
 E:\Projetos\C#\Investments\InvestMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.csproj.CoreCompileInputs.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\C#\Investments\InvestMVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\Projetos\C#\Investments\InvestMVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
