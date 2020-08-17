@@ -12,8 +12,6 @@ E:\Projetos\C#\Investments\InvestMVC\bin\Debug\netcoreapp3.1\InvestMVC.Views.pdb
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.csprojAssemblyReference.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.AssemblyInfoInputs.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.AssemblyInfo.cs
-E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.csproj.CoreCompileInputs.cache
-E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.MvcApplicationPartsAssemblyInfo.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.RazorAssemblyInfo.cache
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.RazorAssemblyInfo.cs
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\InvestMVC.TagHelpers.input.cache
