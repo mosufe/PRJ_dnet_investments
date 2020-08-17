@@ -186,3 +186,8 @@ E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Trades\
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Trades\Details.cshtml.g.cs
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Trades\Edit.cshtml.g.cs
 E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Trades\Index.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Create.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Delete.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Details.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Edit.cshtml.g.cs
+E:\Projetos\C#\Investments\InvestMVC\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Index.cshtml.g.cs

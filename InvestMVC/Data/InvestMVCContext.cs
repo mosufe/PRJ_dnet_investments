@@ -19,5 +19,7 @@ namespace InvestMVC.Data
         public DbSet<InvestMVC.Models.Company> Company { get; set; }
 
         public DbSet<InvestMVC.Models.Trade> Trade { get; set; }
+
+        public DbSet<InvestMVC.Models.Stock> Stock { get; set; }
     }
 }
