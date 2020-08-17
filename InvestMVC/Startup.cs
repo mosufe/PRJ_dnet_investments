@@ -22,7 +22,10 @@ namespace InvestMVC
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<InvestorMVCContext>(options => options.UseSqlServer(Configuration.GetConnectionString("InvestorMVCContext")));
+            services.AddDbContext<InvestorMVCContext>(options => options.UseSqlServer(Configuration.GetConnectionString("InvestMVCContext")));
+
+            services.AddDbContext<InvestMVCContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("InvestMVCContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

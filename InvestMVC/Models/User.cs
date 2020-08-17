@@ -7,6 +7,7 @@ namespace InvestMVC.Models
 {
     public class User
     {
+        public int Id { get; set; }
         public String name { get; set; }
         public String surname { get; set; }
         public String email { get; set; }
