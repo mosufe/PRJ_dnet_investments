@@ -21,5 +21,7 @@ namespace InvestMVC.Data
         public DbSet<InvestMVC.Models.Trade> Trade { get; set; }
 
         public DbSet<InvestMVC.Models.Stock> Stock { get; set; }
+
+        public DbSet<InvestMVC.Models.HistoricalData> HistoricalData { get; set; }
     }
 }
